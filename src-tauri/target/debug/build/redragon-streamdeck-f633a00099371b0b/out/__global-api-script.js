@@ -1,1 +1,0 @@
-["/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-2.9.5/scripts/bundle.global.js","/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-plugin-shell-2.3.4/api-iife.js"]

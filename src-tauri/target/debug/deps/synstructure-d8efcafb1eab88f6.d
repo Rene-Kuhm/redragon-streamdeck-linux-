@@ -1,8 +1,0 @@
-/home/tecnodespegue/Downloads/redragon-streamdeck/src-tauri/target/debug/deps/synstructure-d8efcafb1eab88f6.d: /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/lib.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/macros.rs
-
-/home/tecnodespegue/Downloads/redragon-streamdeck/src-tauri/target/debug/deps/libsynstructure-d8efcafb1eab88f6.rlib: /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/lib.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/macros.rs
-
-/home/tecnodespegue/Downloads/redragon-streamdeck/src-tauri/target/debug/deps/libsynstructure-d8efcafb1eab88f6.rmeta: /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/lib.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/macros.rs
-
-/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/lib.rs:
-/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/synstructure-0.13.2/src/macros.rs:
