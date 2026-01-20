@@ -1,0 +1,9 @@
+/home/tecnodespegue/Downloads/redragon-streamdeck/src-tauri/target/debug/deps/dlopen2_derive-577d910305579ad0.d: /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/lib.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/api.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/common.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/multi_api.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/wrapper.rs
+
+/home/tecnodespegue/Downloads/redragon-streamdeck/src-tauri/target/debug/deps/libdlopen2_derive-577d910305579ad0.so: /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/lib.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/api.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/common.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/multi_api.rs /home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/wrapper.rs
+
+/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/lib.rs:
+/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/api.rs:
+/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/common.rs:
+/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/multi_api.rs:
+/home/tecnodespegue/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dlopen2_derive-0.4.3/src/wrapper.rs:
